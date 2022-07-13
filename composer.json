@@ -8,6 +8,10 @@
         "drupal/acquia_cms_common": "^1.3.5",
         "drupal/imce": "2.x-dev"
     },
+    "require-dev": {
+        "axelerant/drupal-quality-checker": "^1.1",
+        "phpspec/prophecy-phpunit": "^2.0"
+    },
     "config": {
         "allow-plugins": {
             "composer/installers": true,
